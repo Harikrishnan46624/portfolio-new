@@ -1,0 +1,47 @@
+.bx {
+  font-family: boxicons!important;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto;
+  display: inline-block;
+  text-transform: none;
+  speak: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+.bxl-linkedin:before {
+  content: "\e94d"
+}
+.bxl-twitter:before {
+  content: "\e982"
+}
+.bx-book-content:before {
+  content: "\e9e5"
+}
+.bx-file:before {
+  content: "\ead5"
+}
+
+.bx-file-blank:before {
+  content: "\ead6"
+}
+.bx-home:before {
+  content: "\eb12"
+}
+.bx-link:before {
+  content: "\eb3c"
+}.bx-plus:before {
+  content: "\ebc0"
+}
+.bx-server:before {
+  content: "\ebfd"
+}
+.bx-tachometer:before {
+  content: "\ec3a"
+}
+.bx-user:before {
+  content: "\ec63"
+}
